@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "discount_owner": 1,
+        "discount_code": 1,
+        "discount_name": "FUNCIONARIO",
+        "discount_short_name": "FUNCIONARIO",
+        "discount_status": true,
+        "discount_percentage": "0.30"
+    },
+    {
+        "id": 2,
+        "discount_owner": 1,
+        "discount_code": 2,
+        "discount_name": "LOJISTA",
+        "discount_short_name": "LOJISTA",
+        "discount_status": true,
+        "discount_percentage": "0.10"
+    }
+]

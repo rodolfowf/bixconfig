@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "payment_owner": 1,
+        "payment_code": 1,
+        "payment_name": "VISA CREDITO",
+        "payment_short_name": "VISA CREDITO",
+        "tipo_pag_nf": "03"
+    },
+    {
+        "id": 2,
+        "payment_owner": 1,
+        "payment_code": 2,
+        "payment_name": "VISA DEBITO",
+        "payment_short_name": "VISA DEBITO",
+        "tipo_pag_nf": "04"
+    },
+    {
+        "id": 3,
+        "payment_owner": 1,
+        "payment_code": 3,
+        "payment_name": "MASTERCARD DEBITO",
+        "payment_short_name": "MASTERCARD DEBI",
+        "tipo_pag_nf": "04"
+    },
+    {
+        "id": 4,
+        "payment_owner": 1,
+        "payment_code": 4,
+        "payment_name": "TICKET",
+        "payment_short_name": "TICKET",
+        "tipo_pag_nf": "11"
+    }
+]

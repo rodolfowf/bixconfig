@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "acquirer_owner": 1,
+        "acquirer_code": 1,
+        "acquirer_name": "REDE",
+        "acquirer_short_name": "REDE"
+    },
+    {
+        "id": 2,
+        "acquirer_owner": 1,
+        "acquirer_code": 2,
+        "acquirer_name": "CIELO",
+        "acquirer_short_name": "CIELO"
+    },
+    {
+        "id": 3,
+        "acquirer_owner": 1,
+        "acquirer_code": 3,
+        "acquirer_name": "GETNET",
+        "acquirer_short_name": "GETNET"
+    },
+    {
+        "id": 4,
+        "acquirer_owner": 1,
+        "acquirer_code": 4,
+        "acquirer_name": "STONE",
+        "acquirer_short_name": "STONE"
+    }
+]

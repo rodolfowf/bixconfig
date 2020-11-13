@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "typepay_owner": 1,
+        "typepay_code": 1,
+        "typepay_name": "DINHEIRO",
+        "typepay_short_name": "DINHEIRO"
+    },
+    {
+        "id": 2,
+        "typepay_owner": 1,
+        "typepay_code": 2,
+        "typepay_name": "CARTAO POS",
+        "typepay_short_name": "CARTAO POS"
+    },
+    {
+        "id": 3,
+        "typepay_owner": 1,
+        "typepay_code": 3,
+        "typepay_name": "TEF",
+        "typepay_short_name": "TEF"
+    }
+]

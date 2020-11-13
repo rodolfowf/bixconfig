@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "employees_owner": 1,
+        "employees_code": "1",
+        "employees_name": "RODOLFO"
+    },
+    {
+        "id": 2,
+        "employees_owner": 1,
+        "employees_code": "2",
+        "employees_name": "FORBIXMAN"
+    },
+    {
+        "id": 3,
+        "employees_owner": 1,
+        "employees_code": "3",
+        "employees_name": "FABIO VB"
+    },
+    {
+        "id": 4,
+        "employees_owner": 1,
+        "employees_code": "4",
+        "employees_name": "MICHEL"
+    }
+]

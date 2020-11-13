@@ -1,0 +1,34 @@
+[
+    {
+        "id": 2,
+        "term_num": 2,
+        "term_name": "TERM",
+        "term_ip": "192.168.10.102",
+        "term_type": "L",
+        "term_owner": 1
+    },
+    {
+        "id": 3,
+        "term_num": 3,
+        "term_name": "TERM",
+        "term_ip": "192.168.10.103",
+        "term_type": "C",
+        "term_owner": 1
+    },
+    {
+        "id": 4,
+        "term_num": 4,
+        "term_name": "TERM",
+        "term_ip": "192.168.10.104",
+        "term_type": "C",
+        "term_owner": 1
+    },
+    {
+        "id": 5,
+        "term_num": 1,
+        "term_name": "TERM",
+        "term_ip": "192.168.10.101",
+        "term_type": "C",
+        "term_owner": 1
+    }
+]

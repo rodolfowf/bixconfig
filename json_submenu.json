@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "submenu_owner": 1,
+        "submenu_num": 1,
+        "submenus_short_name": "BEBIDAS"
+    },
+    {
+        "id": 2,
+        "submenu_owner": 1,
+        "submenu_num": 2,
+        "submenus_short_name": "SOBREMESAS"
+    },
+    {
+        "id": 3,
+        "submenu_owner": 1,
+        "submenu_num": 3,
+        "submenus_short_name": "LANCHES"
+    },
+    {
+        "id": 4,
+        "submenu_owner": 1,
+        "submenu_num": 4,
+        "submenus_short_name": "SORVETES"
+    },
+    {
+        "id": 5,
+        "submenu_owner": 1,
+        "submenu_num": 5,
+        "submenus_short_name": "CHOCOLATES"
+    },
+    {
+        "id": 6,
+        "submenu_owner": 1,
+        "submenu_num": 6,
+        "submenus_short_name": "PETISCOS"
+    },
+    {
+        "id": 7,
+        "submenu_owner": 1,
+        "submenu_num": 7,
+        "submenus_short_name": "MOLHOS"
+    }
+]

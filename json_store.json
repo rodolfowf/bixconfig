@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "store_num": 1,
+        "store_name": "KFC PINHEIROS",
+        "regime_tributario": "1",
+        "store_type": "1",
+        "store_owner": 1,
+        "store_cprofile": 1
+    }
+]

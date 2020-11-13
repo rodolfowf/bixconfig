@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "ncm": "22019000",
+        "cest": "0300100",
+        "cbenef": "RJ802408",
+        "tax": {
+            "tax_federal": {
+                "reg_trib": "0",
+                "cst_saida": "49",
+                "aliq_pis": 0.65,
+                "aliq_cofins": 3.0
+            },
+            "tax_state": {
+                "uf": "SP",
+                "cst_saida": "500",
+                "origem": "2",
+                "bc_icms_saida": "3",
+                "aliq_icms": 3.2,
+                "red_bc_icms": 0.0,
+                "bc_st_icms": "4",
+                "cfop": "5102",
+                "indice_ecf": "0"
+            }
+        }
+    }
+]

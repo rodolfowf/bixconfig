@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "methodpay_owner": 1,
+        "methodpay_code": 1,
+        "methodpay_name": "DEBITO",
+        "methodpay_short_name": "DEBITO"
+    },
+    {
+        "id": 2,
+        "methodpay_owner": 1,
+        "methodpay_code": 2,
+        "methodpay_name": "CREDITO",
+        "methodpay_short_name": "CREDITO"
+    },
+    {
+        "id": 3,
+        "methodpay_owner": 1,
+        "methodpay_code": 3,
+        "methodpay_name": "VOUCHER",
+        "methodpay_short_name": "VOUCHER"
+    }
+]
