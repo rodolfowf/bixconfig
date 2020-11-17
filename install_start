@@ -1,0 +1,4 @@
+sudo apt install git-all -y 
+sudo apt install vim -y
+sudo apt install chromium-browser -y
+startx /usr/bin/chromium-browser http://www.google.com/ --window-size=1920,1080 --start-fullscreen --kiosk --
