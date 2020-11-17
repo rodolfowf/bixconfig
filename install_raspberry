@@ -31,6 +31,7 @@ popd
 sudo ldconfig -v
 sudo apt update
 sudo apt install pkg-config libgl1-mesa-dev libgles2-mesa-dev python3-setuptools libgstreamer1.0-dev git-core gstreamer1.0-plugins-{bad,base,good,ugly} gstreamer1.0-{omx,alsa} python3-dev libmtdev-dev xclip xsel libjpeg-dev
+sudo apt-get install python3-pip
 python3 -m pip install --upgrade --user pip setuptools
 python3 -m pip install --upgrade --user Cython==0.29.21 pillow
 python3 -m pip install --user kivy
