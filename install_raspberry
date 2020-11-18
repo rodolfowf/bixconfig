@@ -34,4 +34,4 @@ sudo apt install pkg-config libgl1-mesa-dev libgles2-mesa-dev python3-setuptools
 sudo apt-get install python3-pip
 python3 -m pip install --upgrade --user pip setuptools
 python3 -m pip install --upgrade --user Cython==0.29.21 pillow
-python3 -m pip install --user https://github.com/kivy/kivy/archive/master.zip
+python3 -m pip install --user kivy
