@@ -1,2 +1,0 @@
-sudo apt install vim -y
-mkdir /home/pi/.config/
