@@ -45,3 +45,32 @@ python3 -m pip install --upgrade --user Cython==0.29.21 pillow
 python3 -m pip install --user https://github.com/kivy/kivy/archive/master.zip
 #sudo apt-get install libopenjp2-7
 sudo apt-get install --no-install-recommends xserver-xorg-video-all xserver-xorg-input-all xserver-xorg-core xinit x11-xserver-utils chromium-browser unclutter
+
+
+sudo apt-get install adduser
+sudo apt-get install at-spi2-core
+sudo apt-get install autoconf
+sudo apt-get install automake
+sudo apt-get install autopoint
+sudo apt-get install autotools-dev
+sudo apt-get install bc
+sudo apt-get install chromium-browser-l10n
+sudo apt-get install colord
+sudo apt-get install colord-data
+sudo apt-get install cups
+sudo apt-get install cups-browsed
+sudo apt-get install cups-client
+sudo apt-get install cups-common
+sudo apt-get install cups-core-drivers
+sudo apt-get install cups-daemon
+sudo apt-get install cups-filters
+sudo apt-get install cups-filters-core-drivers
+sudo apt-get install cups-ipp-utils
+sudo apt-get install cups-ppdc
+sudo apt-get install cups-server-common
+sudo apt-get install debhelper
+sudo apt-get install dh-autoreconf
+sudo apt-get install dh-strip-nondeterminism
+sudo apt-get install dwz
+sudo apt-get install fonts-droid-fallback
+sudo apt-get install fonts-noto-mono
