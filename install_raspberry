@@ -1,3 +1,5 @@
+sudo apt install vim -y
+mkdir /home/pi/.config/
 sudo apt update
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:deadsnakes/ppa
