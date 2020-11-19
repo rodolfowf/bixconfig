@@ -35,4 +35,5 @@ sudo apt-get install python3-pip
 python3 -m pip install --upgrade --user pip setuptools
 python3 -m pip install --upgrade --user Cython==0.29.21 pillow
 python3 -m pip install --user https://github.com/kivy/kivy/archive/master.zip
-sudo apt-get install libopenjp2-7
+#sudo apt-get install libopenjp2-7
+sudo apt-get install --no-install-recommends xserver-xorg-video-all xserver-xorg-input-all xserver-xorg-core xinit x11-xserver-utils chromium-browser unclutter
