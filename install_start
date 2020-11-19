@@ -1,5 +1,2 @@
 sudo apt install vim -y
 mkdir /home/pi/.config/
-sudo apt-get install xserver-xorg -y
-sudo apt-get install xinit -y
-sudo apt-get install matchbox-window-manager -y
