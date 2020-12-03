@@ -1,0 +1,125 @@
+[
+    {   
+        "id": 1,
+        "loja": 1,
+        "descricao": "principal",
+        "main": true,
+        "objeto": [
+            {
+                "descricao": 1,
+                "mesa": 1,
+                "x": 36,
+                "y": 8,
+                "cord": 0,
+                "type": 1,
+                "call_fp": null,
+                "size_x": 1,
+                "size_y": 10,
+                "background_color": null 
+            },
+            {
+                "descricao": 1,
+                "mesa": 2,
+                "background_color": null,
+                "x": 2,
+                "y": 3,
+                "cord": 0,
+                "type": 1,
+                "call_fp": null ,
+                "size_x": 1,
+                "size_y": 10 
+            },
+            {
+                "mesa": 3,
+                "x": 2,
+                "y": 5,
+                "cord": 0,
+                "type": 1,
+                "background_color": null,
+                "call_fp": null,
+                "size_x": 1,
+                "size_y": 10 
+            },
+            {
+                "descricao": "bar",
+                "mesa": null,
+                "x": 5,
+                "y": 8,
+                "cord": 0,
+                "type": 2,
+                "background_color": "A52A2A",
+                "call_fp": null,
+                "size_x": 5,
+                "size_y": 1
+            },
+            {
+                "descricao": "sala vip",
+                "mesa": null,
+                "x": 2,
+                "y": 85,
+                "cord": 1,
+                "type": 2,
+                "background_color": "A52A2A",
+                "call_fp": 2,
+                "size_x": 5,
+                "size_y": 1
+            }
+        ]
+    },
+    {   
+        "id": 2,
+        "loja": 1,
+        "descricao": "sala vip",
+        "main": false,
+        "objeto": [
+            {
+                "descricao": 1,
+                "mesa": 10,
+                "x": 36,
+                "y": 3,
+                "cord": 0,
+                "type": 1,
+                "call_fp": null,
+                "size_x": 1,
+                "background_color": null,
+                "size_y": 10 
+            },
+            {
+                "descricao": 1,
+                "mesa": 11,
+                "x": 36,
+                "y": 5,
+                "cord": 0,
+                "type": 1,
+                "call_fp": null,
+                "size_x": 1,
+                "background_color": null,
+                "size_y": 10 
+            },
+            {
+                "descricao": 1,
+                "mesa": 12,
+                "x": 36,
+                "y": 8,
+                "cord": 0,
+                "type": 1,
+                "call_fp": null,
+                "size_x": 1,
+                "background_color": null,
+                "size_y": 10 
+            },
+            {
+                "descricao": "salao principal",
+                "mesa": null,
+                "x": 2,
+                "y": 85,
+                "cord": 1,
+                "type": 2,
+                "background_color": "A52A2A",
+                "call_fp": 1,
+                "size_x": 5,
+                "size_y": 1
+            }
+        ]
+    }
+]
